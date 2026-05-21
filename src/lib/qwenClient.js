@@ -1,6 +1,6 @@
 
 // 千问API客户端配置 - 参照OpenAI兼容模式
-const API_KEY = "sk-6a0f7303e90340f7b0d0405201b622bb";
+const API_KEY = "";
 // OpenAI兼容模式API地址
 const BASE_URL = "https://dashscope.aliyuncs.com/compatible-mode/v1";
 
